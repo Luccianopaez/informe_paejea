@@ -26,21 +26,30 @@ Necesito un caso que tenga suficiente información pública, relevancia jurídic
 
 Recomiéndame cuál de los casos es el más completo para obtener un buen análisis académico.
 
-## Organización de la Documentación Markdown
+## Md 1- Genera un resumen ejecutivo profesional sobre el caso Equifax 2017.
 
-Ayúdame a estructurar un proyecto académico donde el contenido principal estará separado en 8 archivos Markdown.
+Debe incluir:
+- qué ocurrió,
+- cuándo ocurrió,
+- cómo ocurrió el ataque,
+- actores involucrados,
+- impacto del incidente,
+- consecuencias jurídicas y tecnológicas,
+- y enfoque hipotético sobre aplicación de legislación chilena.
 
-Cada archivo debe representar una sección independiente del informe:
-- resumen ejecutivo,
-- marco normativo,
+El texto debe ser académico, claro y estructurado para un archivo Markdown.
+
+## Md 2- Genera un análisis del marco normativo aplicable al caso Equifax considerando un escenario hipotético donde el incidente hubiese ocurrido en Chile.
+
+Incluye:
+- leyes chilenas,
+- normas internacionales,
+- justificación de aplicabilidad,
+- protección de datos,
 - delitos informáticos,
-- comparación regulatoria,
-- responsabilidades,
-- tratamiento de datos,
-- conclusiones,
-- y prompts utilizados.
+- y relación directa con el caso.
 
-La estructura debe verse profesional y pensada para integrarse posteriormente en una aplicación React.
+El contenido debe ser profesional, académico y organizado en formato Markdown.
 
 ## Configuración de React con Vite
 
