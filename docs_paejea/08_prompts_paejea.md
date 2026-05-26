@@ -59,7 +59,49 @@ Relaciona las acciones realizadas por los atacantes con artículos específicos 
 - fraude informático,
 - y ataques a sistemas.
 
-El contenido debe mapear acción → delito y estar redactado en formato académico Markdown.
+## Md 4- El contenido debe mapear acción → delito y estar redactado en formato académico Markdown.
+
+Crea una comparación entre marcos regulatorios aplicables al caso Equifax.
+
+Compara:
+- legislación chilena,
+- GDPR europeo,
+- y normativa estadounidense.
+
+Incluye:
+- protección de datos,
+- sanciones,
+- notificación de brechas,
+- responsabilidades empresariales,
+- y aplicabilidad al caso.
+
+Utiliza tablas y formato Markdown profesional.
+
+## Md 5- Analiza las responsabilidades legales involucradas en el caso Equifax bajo un escenario hipotético de aplicación de legislación chilena.
+
+Identifica:
+- atacantes,
+- empresa,
+- ejecutivos,
+- y usuarios afectados.
+
+Distingue responsabilidades:
+- penales,
+- civiles,
+- y administrativas.
+
+Redacta el contenido en formato académico Markdown.
+
+## Md 6- Analiza el tratamiento de datos personales en el caso Equifax según la Ley 19.628 de Chile.
+
+Incluye:
+- tipos de datos comprometidos,
+- diferencia entre datos personales y sensibles,
+- derechos ARCO,
+- riesgos derivados de la filtración,
+- y obligaciones de protección de datos.
+
+El contenido debe estar estructurado profesionalmente en Markdown.
 
 ## Configuración de React con Vite
 
