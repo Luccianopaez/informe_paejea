@@ -51,6 +51,16 @@ Incluye:
 
 El contenido debe ser profesional, académico y organizado en formato Markdown.
 
+## Md 3- Analiza el caso Equifax utilizando la Ley 21.459 de Chile.
+
+Relaciona las acciones realizadas por los atacantes con artículos específicos de la ley, explicando:
+- acceso ilícito,
+- interceptación de datos,
+- fraude informático,
+- y ataques a sistemas.
+
+El contenido debe mapear acción → delito y estar redactado en formato académico Markdown.
+
 ## Configuración de React con Vite
 
 Explícame cómo crear un proyecto moderno utilizando React con Vite desde cero.
