@@ -77,3 +77,197 @@ Necesito:
 - personalización de tamaño y estilos,
 - y recomendaciones para mantener consistencia visual dentro de la interfaz.
 
+
+## Creacion pagina web
+Necesito que actúes como un desarrollador senior frontend especializado en React + Vite + Tailwind CSS + UX académico/documental.
+
+Voy a entregarte 8 archivos Markdown correspondientes a un informe universitario sobre el caso Equifax (brecha de datos 2017), analizado bajo legislación chilena.
+
+Tu tarea es crear un único archivo App.jsx COMPLETO, moderno, profesional, responsive y visualmente sólido, que renderice correctamente todo el contenido de los markdowns y maximice el cumplimiento de la rúbrica académica que también te entregaré.
+
+IMPORTANTE:
+La aplicación NO es un blog genérico.
+Debe sentirse como:
+- una plataforma profesional de análisis jurídico y ciberseguridad,
+- una presentación académica moderna,
+- y un dashboard/documentación interactiva.
+
+STACK TECNOLÓICO:
+- React
+- Vite
+- Tailwind CSS
+- Lucide React Icons
+
+NO uses:
+- Material UI
+- Bootstrap
+- Chakra
+- CSS externo
+- styled-components
+
+TODO debe estar en:
+- un solo App.jsx
+- usando Tailwind
+- y componentes internos reutilizables.
+
+OBJETIVO PRINCIPAL
+
+La aplicación debe:
+- mostrar claramente los 8 markdowns,
+- facilitar lectura académica,
+- verse moderna y profesional,
+- y evidenciar calidad técnica suficiente para obtener nivel “Destacado” según la rúbrica.
+
+La UI debe demostrar:
+- estructura,
+- jerarquía visual,
+- navegación clara,
+- coherencia académica,
+- experiencia de usuario moderna,
+- y excelente presentación de información jurídica.
+
+CONTEXTO DEL PROYECTO
+
+Tema:
+Brecha de datos Equifax 2017.
+
+Enfoque:
+“Si este incidente hubiese ocurrido en Chile, ¿qué leyes chilenas aplicarían?”
+
+El contenido ya incluye:
+- Ley 21.459,
+- Ley 19.628,
+- GDPR,
+- Convenio de Budapest,
+- derechos ARCO,
+- responsabilidades legales,
+- delitos informáticos,
+- comparación regulatoria,
+- conclusiones,
+- y bitácora de prompts IA.
+
+RÚBRICA IMPORTANTE
+
+La aplicación debe ayudar visualmente a demostrar:
+
+1. Marco normativo nacional e internacional.
+2. Tipificación de delitos informáticos.
+3. Comparación de marcos regulatorios.
+4. Responsabilidades legales.
+5. Tratamiento de datos personales.
+6. Uso correcto y transparente de IA.
+7. Calidad profesional del proyecto desplegable.
+
+La interfaz debe reforzar estos puntos visualmente.
+
+REQUISITOS DE DISEÑO
+
+QUIERO UNA INTERFAZ:
+- minimalista,
+- moderna,
+- oscura (dark mode elegante),
+- estilo dashboard/documentación,
+- con detalles visuales de ciberseguridad,
+- profesional y académica.
+
+Inspiración visual:
+- Vercel
+- Linear
+- Notion
+- documentación moderna
+- dashboards SOC/ciberseguridad
+
+Usa:
+- gradients suaves,
+- cards modernas,
+- blur effects sutiles,
+- borders elegantes,
+- sombras suaves,
+- buena tipografía,
+- espaciado profesional,
+- excelente responsive.
+
+ESTRUCTURA DE LA APP
+
+La app debe incluir:
+
+1. HERO SECTION
+- título grande
+- subtítulo
+- badges
+- nombre del caso
+- contexto jurídico
+- indicadores visuales
+
+2. SIDEBAR O NAVEGACIÓN
+- navegación por secciones
+- scroll suave
+- highlight de sección activa
+
+3. RENDERIZADO DE MARKDOWN
+- renderizar correctamente los 8 markdowns
+- usar react-markdown
+- soporte para:
+  - headings
+  - listas
+  - tablas
+  - code blocks
+  - blockquotes
+
+4. TARJETAS RESUMEN
+Antes de algunas secciones:
+- resumen visual
+- insights importantes
+- highlights jurídicos
+
+5. TIMELINE DEL INCIDENTE
+Crear timeline visual del caso Equifax:
+- mayo 2017
+- julio 2017
+- septiembre 2017
+- consecuencias posteriores
+
+6. SECCIÓN DE LEYES
+Mostrar leyes relevantes en cards:
+- Ley 21.459
+- Ley 19.628
+- GDPR
+- Convenio de Budapest
+
+7. VISUALIZACIÓN DE RESPONSABILIDADES
+Cards separadas:
+- atacantes
+- empresa
+- ejecutivos
+- usuarios
+
+8. SECCIÓN FINAL
+Conclusiones modernas y visuales.
+
+IMPORTANTE SOBRE LOS MARKDOWN
+
+Los markdowns estarán dentro de:
+
+/docs_jepae/
+
+y tendrán nombres: 
+
+01_resumen_paejea.md
+02_marco_paejea.md
+03_delitos_paejea.md
+04_comparacion_paejea.md
+05_responsabilidades_paejea.md
+06_datos_paejea.md
+07_conclusiones_paejea.md
+08_prompts_paejea.md
+
+La app debe cargarlos dinámicamente.
+
+
+REQUISITOS TÉCNICOS
+
+Debes:
+- usar imports correctos,
+- usar hooks correctamente,
+- evitar código innecesario,
+- crear compone...
