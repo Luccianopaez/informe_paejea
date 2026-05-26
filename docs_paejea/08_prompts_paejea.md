@@ -103,6 +103,29 @@ Incluye:
 
 El contenido debe estar estructurado profesionalmente en Markdown.
 
+
+## Md 7- Genera conclusiones y recomendaciones de ciberseguridad basadas en el análisis del caso Equifax.
+
+Incluye:
+- reflexión final,
+- importancia de la protección de datos,
+- recomendaciones de seguridad,
+- responsabilidades organizacionales,
+- y relevancia de la legislación chilena.
+
+Redacta el contenido en formato académico Markdown.
+
+## Md 8- Genera una bitácora de uso de inteligencia artificial utilizada durante el desarrollo del informe y de la aplicación React.
+
+Incluye:
+- prompts más importantes utilizados,
+- prompts técnicos,
+- prompts jurídicos,
+- organización del proyecto,
+- y reflexión final sobre uso de IA.
+
+El contenido debe ser claro, resumido y profesional en formato Markdown.
+
 ## Configuración de React con Vite
 
 Explícame cómo crear un proyecto moderno utilizando React con Vite desde cero.
